@@ -50,7 +50,9 @@ and their Dockerfile generator that
 
 ### Installation
 
-#### Step 1. Install [Docker](https://docs.docker.com/engine/installation/) and [nvidia-docker](https://github.com/NVIDIA/nvidia-docker).
+#### Step 1. Install [Docker](https://docs.docker.com/engine/installation/) 
+以及[中文版说明](https://yeasy.gitbooks.io/docker_practice/content/install/ubuntu.html) 
+and [nvidia-docker](https://github.com/NVIDIA/nvidia-docker).
 
 #### Step 2. Obtain the all-in-one image from [Docker Hub](https://hub.docker.com/r/ufoym/deepo)
 
